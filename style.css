@@ -217,6 +217,9 @@ aside {
         flex-direction: column;
     }
 
+    .container{
+        width: 90%;
+    }
     nav ul {
         flex-direction: column;
     }
@@ -232,6 +235,7 @@ aside {
     main {
         width: 100%;
     }
+
 
     .article-recent {
 
@@ -261,6 +265,7 @@ aside {
 
     }
     p{
+        color: #707070;
         font-size: 0.8rem;
     }
     aside{
@@ -274,6 +279,12 @@ aside {
     }
     .sidebar-widget{
         width: 100%;
+    }
+    .sidebar-widget img, 
+    .widget-recent img{
+      
+        height: 8em;
+        object-fit: cover;
     }
     .widget-recent img{
         width: 100%;
@@ -302,4 +313,9 @@ footer .copyright{
 }
 .no-border {
     border: 0px;
+}
+
+strong{
+    /* color: #707070; */
+    font-weight: bold;
 }
