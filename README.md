@@ -7,7 +7,10 @@ There's problems faced by me in responsive but not a deal to list it. When the w
 
 ## how to run
 You can directly open index.html using any browser. Also, you can run it on a live server in your vs code. Run it and test :)
+## Frist Looks
+### Desktop 
 <img src="assets/res1.png" style="width=100%" />
 <img src="assets/res2.png" style="width=100%" />
+### Mobile 
 <img src="assets/res3.png" style="width=100%" />
 <img src="assets/res4.png" style="width=100%" />
