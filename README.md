@@ -15,9 +15,9 @@ You can directly open index.html using any browser. Also, you can run it on a li
 
 ### Mobile
 
-<div align="center">
-<img src='assets/res3.png' style='width=80%;' />
-<img src='assets/res4.png' style='width=80%;' />
+<div align="left">
+<img src='assets/res3.png' style='width=100%;' />
+<img src='assets/res4.png' style='width=100%;' />
 
 </div>
 
