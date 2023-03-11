@@ -20,4 +20,3 @@ You can directly open index.html using any browser you have. Also, you can run i
 <img src='assets/res4.png' style='width=100%;' />
 
 </div>
-

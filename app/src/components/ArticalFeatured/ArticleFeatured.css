@@ -1,0 +1,10 @@
+.article{
+    display: flex;
+
+}
+.main-article{
+    flex-direction: column;
+}
+.recent{
+    flex-direction: row;
+}
