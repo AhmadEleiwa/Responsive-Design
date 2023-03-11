@@ -1,0 +1,12 @@
+.aside-list{
+    /* border: 20px solid #efefef; */
+    background-color: #efefef;
+}
+
+.aside-list .aside-item{
+        border: 0 !important;
+        margin: 0 !important;
+        width: 80%;
+        margin: 1em auto !important;
+        background-color: white;
+}

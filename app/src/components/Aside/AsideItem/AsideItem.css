@@ -1,0 +1,9 @@
+.aside-item{
+    display:  flex;
+    flex-direction: column;
+    border: 20px solid #efefef;
+    margin: 2em;
+    width: 100%;
+    padding: 1em;
+
+}

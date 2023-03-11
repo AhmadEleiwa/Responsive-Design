@@ -1,7 +1,8 @@
 
 import AsideItem from "./AsideItem"
+import './AsideList.css'
 const AsideList= props => {
-    return <div>
+    return <div  className ='aside-list'>
             <AsideItem />
             <AsideItem />
             <AsideItem />

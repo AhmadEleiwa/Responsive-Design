@@ -6,11 +6,11 @@ import './ArticleFeatured.css'
 const ArticalFeatured = props => {
     return <div className={`article ${props.recent ? 'recent' : 'main-article'}`}>
 
-        <div>
+        <div className='flex'>
             <img src={props.imgSrc} alt='s' />
             <Subtitle>{props.subtitle}</Subtitle>
         </div>
-        <div>
+        <div className='flex'>
             <Title>{props.title}</Title>
             <Description>
                 {props.desc}
