@@ -5,9 +5,11 @@ import './AsideItem.css'
 
 const AsideItem = props => {
     return <div className='aside-item'>
-        <Title>sss</Title>
+        <Title>{props.title}</Title>
         <img src='https://picsum.photos/300/200' />
-        <Subtitle>sss</Subtitle>
+        <Subtitle size ='1em'>
+           {props.desc}
+        </Subtitle>
     </div>
 }
 

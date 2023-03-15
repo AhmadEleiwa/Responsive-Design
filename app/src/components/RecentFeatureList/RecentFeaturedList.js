@@ -3,7 +3,7 @@ import ArticalFeatured from "../ArticalFeatured/ArticleFeatured"
 const RecentFeaturedList = props => {
     return <div>
         <ArticalFeatured recent
-            imgSrc='https://picsum.photos/300/480'
+            imgSrc='https://picsum.photos/300/200'
             title='The truth comes only at the moment of dying" - Jhin'
             desc=' I can see them all, these infinite astral workings. My genius will be understood… eventually. I
         cannot be good. I must be perfection. I must
@@ -12,7 +12,7 @@ const RecentFeaturedList = props => {
 
         />
         <ArticalFeatured recent
-            imgSrc='https://picsum.photos/300/480'
+            imgSrc='https://picsum.photos/300/200'
             title='The truth comes only at the moment of dying" - Jhin'
             desc=' I can see them all, these infinite astral workings. My genius will be understood… eventually. I
         cannot be good. I must be perfection. I must
@@ -21,7 +21,7 @@ const RecentFeaturedList = props => {
 
         />
         <ArticalFeatured recent
-            imgSrc='https://picsum.photos/300/480'
+            imgSrc='https://picsum.photos/300/200'
             title='The truth comes only at the moment of dying" - Jhin'
             desc=' I can see them all, these infinite astral workings. My genius will be understood… eventually. I
         cannot be good. I must be perfection. I must

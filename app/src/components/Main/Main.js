@@ -8,7 +8,9 @@ const Main = props =>{
         imgSrc='https://picsum.photos/800/480'
         title='Finding  something bla bla'
         subtitle=' Feb 13, 2023| 3 comments '
-        desc='content'
+        desc='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam autem odio qui deserunt eius, eos
+        consequuntur iusto pariatur porro nihil asperiores libero. Aperiam voluptatibus deserunt cupiditate
+        quae asperiores ullam quos?'
         />
         <RecentFeaturedList />
     </main>

@@ -1,6 +1,7 @@
 .article{
     display: flex;
     margin: 2em;
+    max-height: 45em;
 }
 .main-article{
     flex-direction: column;
@@ -12,7 +13,7 @@
 
 .flex{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-direction: column;
     align-items: flex-start ;
     margin: 1em;
